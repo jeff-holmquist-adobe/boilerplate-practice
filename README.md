@@ -2,8 +2,8 @@
 Your project's description...
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.aem.page/
-- Live: https://main--{repo}--{owner}.aem.live/
+- Preview: https://main--boilerplate-practice--jeff-holmquist-adobe.aem.page/
+- Live: https://main--boilerplate-practice--jeff-holmquist-adobe.aem.live/
 
 ## Documentation
 
